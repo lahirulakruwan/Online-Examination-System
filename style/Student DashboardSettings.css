@@ -1,0 +1,283 @@
+body{
+	cursor:default;
+}
+
+
+/*headder*/
+#header{
+	width:1200px;
+	background-color:black;
+	border: 2px solid black;
+	height:150px;
+	border-radius:10px;
+	margin-left:65px;
+	margin-bottom:0px;
+}
+#rls{
+	float:right;
+	margin-top:20px;
+	margin-right:10px;
+}
+#reg{
+	width:150px;
+	height:50px;
+	border:2px solid #333333;
+	border-radius:10px;
+	margin-right:10px;
+	background-color:#333333;
+	color:#fff;
+	font-weight:bold;
+	font-size:16px;
+}
+
+#log{
+	width:150px;
+	height:50px;
+	border:2px solid #333333;
+	border-radius:10px;
+	background-color:#333333;
+	color:#fff;
+	font-weight:bold;
+	font-size:16px;
+}
+#reg:hover,#log:hover{
+	background-color:#57b846;
+	transition-duration:0.4s;
+	border-color:#57b846;
+	cursor:pointer;
+}
+
+#search{
+	float:right;
+	margin-top:20px;
+	margin-right:10px;
+	
+}
+#box{
+	border: 2px solid black;
+	border-radius:10px;
+	height:30px;
+	width:270px;
+}
+#seab{
+	height:30px;
+	width:40px;
+	border: 2px solid black;
+	border-radius:50%;
+}
+/*menubar*/
+#menubar li {
+
+list-style:none;
+display:block;
+background-color:#f4511e;
+color:black;
+width:170px;
+height:40px;
+float:left;
+text-align:center;
+line-height:40px;
+margin-left:2px;
+border-radius:5px;
+border:3px solid gray;
+position:;
+
+}
+#menubar li a {
+	margin-left:8px;
+	
+}
+
+#menubar{
+	padding-left:65px;
+	margin:0px;
+	margin-bottom:55px;
+	position:;
+}
+#menubar li:hover{
+	
+	background-color:black;
+	color:white;
+	font-size:20px;
+	transition-duration:0.4s;
+	cursor:pointer;
+}
+
+
+
+
+/*dashboard*/
+#dash{
+	width:200px;
+	background-color:white;
+	border: 3px solid green;
+	height:870px;
+	border-radius:10px;
+	float:left;
+	padding:0px;
+	margin-left:65px;
+	
+}
+#dashboard{
+	text-align:center;
+	text-height:2px;
+	padding:2px;
+	margin:2px;
+	background-color:#f44336;
+	border-radius:5px;
+}
+#attemptquiz{
+	margin-top:10px;
+	margin-left:22px;
+	width:150px;
+	height:40px;
+	border-radius:5px;
+	border: 2px solid #f44336;
+	background-color:transparent;
+	font-size:15px;
+	cursor:pointer;
+}
+#attemptquiz:hover{
+	background-color:#f44336;
+	color:white;
+	border: 2px solid black;
+	transition-duration:0.4s
+	
+}
+#studentico{
+	width:150px;
+	height:150px;
+	
+	margin-top:5px;
+}
+
+
+
+/*Settings*/
+
+#settings{
+	width:969px;
+	background-color:rgba(225,255,255,1);
+	border: 3px solid blue;
+	height:870px;
+	border-radius:10px;
+	float:left;
+	margin-left:20px;
+	padding:0px;
+	margin-bottom:20px;
+	
+}
+#legend1{
+	background-color:rgba(225,255,255,0.7);
+	border-radius: 50px; 
+	margin-left:10px;
+	font-size:50px;
+	font-style:bold;
+	padding-left:10px;
+	background:white;
+}
+#profile{
+	margin-top:10px;
+	padding:0px;
+	width:950px;
+	height:150px;
+	border:2px solid black;
+	border-radius:10px;
+}
+:hover {
+    background-color: yellow;
+}
+/*latest registeration*/
+#latest{
+	background-color:white;
+	width:200px;
+	text-align:center;
+	border: 2px solid black;
+	height:30px;
+	border-radius:10px;
+	margin-left:66px;
+	margin-right:2px;
+	margin-bottom:0px;
+	float:left;
+	line-height:0px;
+	padding-bottom:5px;
+}
+#marquee{
+	width:969px;
+	background-color:white;
+	border: 2px solid black;
+	height:30px;
+	border-radius:10px;
+	margin-left:20px;
+	margin-bottom:0px;
+	float:left;
+	line-height:0px;
+	padding-bottom:5px;
+}
+
+/*footer*/
+#footer{
+	width:1200px;
+	background-color:white;
+	border: 2px solid black;
+	height:75px;
+	border-radius:10px;
+	margin-left:65px;
+	margin-bottom:15px;
+	float:left;
+}
+#payment{
+	border:2px solid black;
+	border-radius:10px;
+	width:300px;
+	height:65px;
+	float:left;
+	padding:0px;
+	margin-left:10px;	
+}
+	
+
+#social{
+	border:2px solid black;
+	border-radius:10px;
+	width:250px;
+	height:65px;
+	margin-left:938px;
+	padding:0px;
+}
+#pay1{
+	width:50px;
+	height:50px;
+	margin-left:5px;
+	
+}
+#pay2{
+	width:40px;
+	height:40px;
+	margin-left:5px;
+	
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
